@@ -18,4 +18,3 @@ Feature: [Nome da Funcionalidade]
       | valor1      | valor2      |
       | valor3      | valor4      |
 
-  # Adicione outros cenários conforme necessário
